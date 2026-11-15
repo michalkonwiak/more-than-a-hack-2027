@@ -34,7 +34,8 @@ the unchanged official smooth50 reference rather than the team candidate.
 
 ## Method and evidence
 
-- [Technical report](TECHNICAL_REPORT.md): inputs, model, possession rules and limitations.
+- [Technical report (PDF)](<reports/jamnik team.pdf>): inputs, model, possession rules and limitations.
+  [Markdown source](TECHNICAL_REPORT.md).
 - [External experiment](EXTERNAL_EXPERIMENT.md): data attribution, splits, training and evaluation.
 - [Provenance audit](PROVENANCE_AUDIT.md): earlier experiments and their exclusion from this candidate.
 - `protocols/`: fixed experiment settings and source fingerprints.
