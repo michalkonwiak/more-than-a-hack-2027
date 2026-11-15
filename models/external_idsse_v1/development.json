@@ -1,0 +1,429 @@
+{
+  "candidates": [
+    {
+      "results": [
+        {
+          "condition": "clean",
+          "known_frames": 141561,
+          "macro_f1": 0.862323376091894,
+          "match": "J03WN1",
+          "predicted_possessions": 591,
+          "spell_f1": 0.40366636113657195,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 141561,
+          "macro_f1": 0.7921258519555491,
+          "match": "J03WN1",
+          "predicted_possessions": 771,
+          "spell_f1": 0.2671911880409127,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "clean",
+          "known_frames": 146211,
+          "macro_f1": 0.8850904908969142,
+          "match": "J03WPY",
+          "predicted_possessions": 512,
+          "spell_f1": 0.4240085744908896,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 146211,
+          "macro_f1": 0.8148086702577954,
+          "match": "J03WPY",
+          "predicted_possessions": 728,
+          "spell_f1": 0.2600522193211488,
+          "unknown_frames": 0
+        }
+      ],
+      "ridge": 0.01,
+      "selection_score": 0.33872958574738077,
+      "transition_cost": 0.0
+    },
+    {
+      "results": [
+        {
+          "condition": "clean",
+          "known_frames": 141561,
+          "macro_f1": 0.8651002670347631,
+          "match": "J03WN1",
+          "predicted_possessions": 295,
+          "spell_f1": 0.44679245283018865,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 141561,
+          "macro_f1": 0.8129408120721316,
+          "match": "J03WN1",
+          "predicted_possessions": 290,
+          "spell_f1": 0.36101265822784806,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "clean",
+          "known_frames": 146211,
+          "macro_f1": 0.8867716879705982,
+          "match": "J03WPY",
+          "predicted_possessions": 285,
+          "spell_f1": 0.47932011331444774,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 146211,
+          "macro_f1": 0.8331369549913408,
+          "match": "J03WPY",
+          "predicted_possessions": 261,
+          "spell_f1": 0.3847507331378299,
+          "unknown_frames": 0
+        }
+      ],
+      "ridge": 0.01,
+      "selection_score": 0.4179689893775786,
+      "transition_cost": 0.5
+    },
+    {
+      "results": [
+        {
+          "condition": "clean",
+          "known_frames": 141561,
+          "macro_f1": 0.8586104981306911,
+          "match": "J03WN1",
+          "predicted_possessions": 213,
+          "spell_f1": 0.3814866760168304,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 141561,
+          "macro_f1": 0.8277077334707132,
+          "match": "J03WN1",
+          "predicted_possessions": 200,
+          "spell_f1": 0.3485714285714286,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "clean",
+          "known_frames": 146211,
+          "macro_f1": 0.893888963070844,
+          "match": "J03WPY",
+          "predicted_possessions": 211,
+          "spell_f1": 0.4689873417721519,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 146211,
+          "macro_f1": 0.83744404093777,
+          "match": "J03WPY",
+          "predicted_possessions": 181,
+          "spell_f1": 0.36877076411960136,
+          "unknown_frames": 0
+        }
+      ],
+      "ridge": 0.01,
+      "selection_score": 0.3919540526200031,
+      "transition_cost": 2.0
+    },
+    {
+      "results": [
+        {
+          "condition": "clean",
+          "known_frames": 141561,
+          "macro_f1": 0.8467393858836215,
+          "match": "J03WN1",
+          "predicted_possessions": 895,
+          "spell_f1": 0.30308243727598566,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 141561,
+          "macro_f1": 0.7685045790190808,
+          "match": "J03WN1",
+          "predicted_possessions": 1012,
+          "spell_f1": 0.21825396825396823,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "clean",
+          "known_frames": 146211,
+          "macro_f1": 0.8725764570594295,
+          "match": "J03WPY",
+          "predicted_possessions": 818,
+          "spell_f1": 0.3102502017756255,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 146211,
+          "macro_f1": 0.7921792331501455,
+          "match": "J03WPY",
+          "predicted_possessions": 963,
+          "spell_f1": 0.19971098265895953,
+          "unknown_frames": 0
+        }
+      ],
+      "ridge": 0.1,
+      "selection_score": 0.2578243974911347,
+      "transition_cost": 0.0
+    },
+    {
+      "results": [
+        {
+          "condition": "clean",
+          "known_frames": 141561,
+          "macro_f1": 0.8575598903765244,
+          "match": "J03WN1",
+          "predicted_possessions": 296,
+          "spell_f1": 0.43869346733668346,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 141561,
+          "macro_f1": 0.7889858468513115,
+          "match": "J03WN1",
+          "predicted_possessions": 284,
+          "spell_f1": 0.3387755102040816,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "clean",
+          "known_frames": 146211,
+          "macro_f1": 0.8806046180779431,
+          "match": "J03WPY",
+          "predicted_possessions": 281,
+          "spell_f1": 0.4735042735042735,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 146211,
+          "macro_f1": 0.8168148154420232,
+          "match": "J03WPY",
+          "predicted_possessions": 255,
+          "spell_f1": 0.3621301775147929,
+          "unknown_frames": 0
+        }
+      ],
+      "ridge": 0.1,
+      "selection_score": 0.4032758571399579,
+      "transition_cost": 0.5
+    },
+    {
+      "results": [
+        {
+          "condition": "clean",
+          "known_frames": 141561,
+          "macro_f1": 0.8504272945190835,
+          "match": "J03WN1",
+          "predicted_possessions": 190,
+          "spell_f1": 0.35130434782608694,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 141561,
+          "macro_f1": 0.7943043933879826,
+          "match": "J03WN1",
+          "predicted_possessions": 164,
+          "spell_f1": 0.2909638554216868,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "clean",
+          "known_frames": 146211,
+          "macro_f1": 0.8789216248165367,
+          "match": "J03WPY",
+          "predicted_possessions": 176,
+          "spell_f1": 0.40134003350083747,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 146211,
+          "macro_f1": 0.8283516906729581,
+          "match": "J03WPY",
+          "predicted_possessions": 157,
+          "spell_f1": 0.3328719723183391,
+          "unknown_frames": 0
+        }
+      ],
+      "ridge": 0.1,
+      "selection_score": 0.3441200522667376,
+      "transition_cost": 2.0
+    },
+    {
+      "results": [
+        {
+          "condition": "clean",
+          "known_frames": 141561,
+          "macro_f1": 0.8039742390990733,
+          "match": "J03WN1",
+          "predicted_possessions": 1282,
+          "spell_f1": 0.21234567901234563,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 141561,
+          "macro_f1": 0.7220293671373907,
+          "match": "J03WN1",
+          "predicted_possessions": 1245,
+          "spell_f1": 0.16412607449856734,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "clean",
+          "known_frames": 146211,
+          "macro_f1": 0.8347416979846098,
+          "match": "J03WPY",
+          "predicted_possessions": 1105,
+          "spell_f1": 0.21415465268676276,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 146211,
+          "macro_f1": 0.7445046542602919,
+          "match": "J03WPY",
+          "predicted_possessions": 1126,
+          "spell_f1": 0.14376212023270846,
+          "unknown_frames": 0
+        }
+      ],
+      "ridge": 1.0,
+      "selection_score": 0.18359713160759605,
+      "transition_cost": 0.0
+    },
+    {
+      "results": [
+        {
+          "condition": "clean",
+          "known_frames": 141561,
+          "macro_f1": 0.8154233507542376,
+          "match": "J03WN1",
+          "predicted_possessions": 236,
+          "spell_f1": 0.35163043478260875,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 141561,
+          "macro_f1": 0.7433782419815369,
+          "match": "J03WN1",
+          "predicted_possessions": 204,
+          "spell_f1": 0.2778409090909091,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "clean",
+          "known_frames": 146211,
+          "macro_f1": 0.8537842579268661,
+          "match": "J03WPY",
+          "predicted_possessions": 223,
+          "spell_f1": 0.41739130434782606,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 146211,
+          "macro_f1": 0.7762479897700866,
+          "match": "J03WPY",
+          "predicted_possessions": 207,
+          "spell_f1": 0.29745222929936305,
+          "unknown_frames": 0
+        }
+      ],
+      "ridge": 1.0,
+      "selection_score": 0.33607871938017675,
+      "transition_cost": 0.5
+    },
+    {
+      "results": [
+        {
+          "condition": "clean",
+          "known_frames": 141561,
+          "macro_f1": 0.7989827784907026,
+          "match": "J03WN1",
+          "predicted_possessions": 130,
+          "spell_f1": 0.2457142857142857,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 141561,
+          "macro_f1": 0.7180864284195131,
+          "match": "J03WN1",
+          "predicted_possessions": 107,
+          "spell_f1": 0.17924217462932454,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "clean",
+          "known_frames": 146211,
+          "macro_f1": 0.8515396399107585,
+          "match": "J03WPY",
+          "predicted_possessions": 129,
+          "spell_f1": 0.33745454545454545,
+          "unknown_frames": 0
+        },
+        {
+          "condition": "ball_dropout",
+          "known_frames": 146211,
+          "macro_f1": 0.7834157663760329,
+          "match": "J03WPY",
+          "predicted_possessions": 108,
+          "spell_f1": 0.2767485822306238,
+          "unknown_frames": 0
+        }
+      ],
+      "ridge": 1.0,
+      "selection_score": 0.2597898970071949,
+      "transition_cost": 2.0
+    }
+  ],
+  "reference": [
+    {
+      "condition": "clean",
+      "known_frames": 141561,
+      "macro_f1": 0.3488337121573147,
+      "match": "J03WN1",
+      "predicted_possessions": 436,
+      "spell_f1": 0.28376068376068375,
+      "unknown_frames": 0
+    },
+    {
+      "condition": "ball_dropout",
+      "known_frames": 141561,
+      "macro_f1": 0.3656549986534349,
+      "match": "J03WN1",
+      "predicted_possessions": 639,
+      "spell_f1": 0.22546093064091308,
+      "unknown_frames": 0
+    },
+    {
+      "condition": "clean",
+      "known_frames": 146211,
+      "macro_f1": 0.39537626445764157,
+      "match": "J03WPY",
+      "predicted_possessions": 375,
+      "spell_f1": 0.3170854271356784,
+      "unknown_frames": 0
+    },
+    {
+      "condition": "ball_dropout",
+      "known_frames": 146211,
+      "macro_f1": 0.41037852496275357,
+      "match": "J03WPY",
+      "predicted_possessions": 574,
+      "spell_f1": 0.22552763819095478,
+      "unknown_frames": 0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "competition_data_used": false,
+  "conditions": [
+    "clean",
+    "ball_dropout"
+  ],
+  "dataset": "IDSSE",
+  "dropout": {
+    "block_seconds": 2,
+    "fraction": 0.4,
+    "seed": 20261024
+  },
+  "feature_windows_seconds": [
+    1,
+    3
+  ],
+  "fps": 25,
+  "holdout_policy": "evaluate only the frozen winner and fixed reference; no tuning after holdout",
+  "label_source": "provider BallStatus and BallPossession, not event interpolation",
+  "license": "CC-BY-4.0",
+  "original_data": "https://doi.org/10.6084/m9.figshare.28196177",
+  "paper": "https://doi.org/10.1038/s41597-025-04505-y",
+  "revision": "a715a38dfbaf5f58e431727c2b78d174101a703c",
+  "ridge_candidates": [
+    0.01,
+    0.1,
+    1.0
+  ],
+  "schema": "external-possession-protocol-v1",
+  "selection": "mean spellF1 over development matches and conditions, equal weights; ties use protocol candidate order",
+  "splits": {
+    "development": [
+      "J03WN1",
+      "J03WPY"
+    ],
+    "holdout": [
+      "J03WQQ",
+      "J03WR9"
+    ],
+    "train": [
+      "J03WMX",
+      "J03WOH",
+      "J03WOY"
+    ]
+  },
+  "training_stride": 5,
+  "transition_cost_candidates": [
+    0.0,
+    0.5,
+    2.0
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "candidate_mean_spell_f1": 0.4570602894723349,
+  "caveat": "Two held-out matches, both with the same home club. External provider labels are a different benchmark; this is not the private competition score.",
+  "holdout_cache_sha256": {
+    "J03WQQ": "71209ed537433b1acd373a1a5accf11d21f5e2c355a8b9ca2fd9ed87a858a40e",
+    "J03WR9": "0aed849c484c5b954d28352abda3f501a200f75cd3b500144a429fb38d88ebe2"
+  },
+  "reference_mean_spell_f1": 0.2950415284997199,
+  "results": [
+    {
+      "candidate": {
+        "known_frames": 142345,
+        "macro_f1": 0.8878358236113956,
+        "predicted_possessions": 313,
+        "spell_f1": 0.5159663865546218,
+        "unknown_frames": 0
+      },
+      "condition": "clean",
+      "match": "J03WQQ",
+      "reference": {
+        "known_frames": 142345,
+        "macro_f1": 0.416237836101015,
+        "predicted_possessions": 406,
+        "spell_f1": 0.3608426270136307,
+        "unknown_frames": 0
+      }
+    },
+    {
+      "candidate": {
+        "known_frames": 142345,
+        "macro_f1": 0.8397431906654796,
+        "predicted_possessions": 297,
+        "spell_f1": 0.4469914040114613,
+        "unknown_frames": 0
+      },
+      "condition": "ball_dropout",
+      "match": "J03WQQ",
+      "reference": {
+        "known_frames": 142345,
+        "macro_f1": 0.45245458312036696,
+        "predicted_possessions": 629,
+        "spell_f1": 0.27106796116504855,
+        "unknown_frames": 0
+      }
+    },
+    {
+      "candidate": {
+        "known_frames": 146810,
+        "macro_f1": 0.8943580876581031,
+        "predicted_possessions": 256,
+        "spell_f1": 0.48753993610223645,
+        "unknown_frames": 0
+      },
+      "condition": "clean",
+      "match": "J03WR9",
+      "reference": {
+        "known_frames": 146810,
+        "macro_f1": 0.4095178373292973,
+        "predicted_possessions": 314,
+        "spell_f1": 0.3152046783625731,
+        "unknown_frames": 0
+      }
+    },
+    {
+      "candidate": {
+        "known_frames": 146810,
+        "macro_f1": 0.8326452756435394,
+        "predicted_possessions": 277,
+        "spell_f1": 0.37774343122102005,
+        "unknown_frames": 0
+      },
+      "condition": "ball_dropout",
+      "match": "J03WR9",
+      "reference": {
+        "known_frames": 146810,
+        "macro_f1": 0.4319071029467387,
+        "predicted_possessions": 574,
+        "spell_f1": 0.2330508474576271,
+        "unknown_frames": 0
+      }
+    }
+  ],
+  "selected_sha256": "2e8c4f4be4510608a8a69677ccc54a4f1b421331c490ca5baf133e2d4b97f1e7"
+}

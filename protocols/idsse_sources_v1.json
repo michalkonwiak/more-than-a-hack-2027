@@ -1,0 +1,131 @@
+{
+  "files": [
+    {
+      "filename": "J03WMX.meta.xml",
+      "git_blob_sha1": "8f2a82d84428c28e0e01f0a908c8395cc8d23900",
+      "kind": "meta",
+      "match": "J03WMX",
+      "sha256": null,
+      "size": 11930,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_02_01_matchinformation_DFL-COM-000001_DFL-MAT-J03WMX.xml"
+    },
+    {
+      "filename": "J03WN1.meta.xml",
+      "git_blob_sha1": "45d2f112aed6c4212e66db8a91e8da1b8d728090",
+      "kind": "meta",
+      "match": "J03WN1",
+      "sha256": null,
+      "size": 11722,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_02_01_matchinformation_DFL-COM-000001_DFL-MAT-J03WN1.xml"
+    },
+    {
+      "filename": "J03WOH.meta.xml",
+      "git_blob_sha1": "a693a0cacc2b597357e65a04eec5febfdaff79aa",
+      "kind": "meta",
+      "match": "J03WOH",
+      "sha256": null,
+      "size": 11745,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WOH.xml"
+    },
+    {
+      "filename": "J03WOY.meta.xml",
+      "git_blob_sha1": "bce56e5f518216e62d1e93a38322d4b9e357e5ab",
+      "kind": "meta",
+      "match": "J03WOY",
+      "sha256": null,
+      "size": 11952,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WOY.xml"
+    },
+    {
+      "filename": "J03WPY.meta.xml",
+      "git_blob_sha1": "46f1ffe15e1b96b12aab10594b12886c503c2f68",
+      "kind": "meta",
+      "match": "J03WPY",
+      "sha256": null,
+      "size": 11922,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WPY.xml"
+    },
+    {
+      "filename": "J03WQQ.meta.xml",
+      "git_blob_sha1": "7ec8acbff5a0c6167b632cc230d2a8b0e7b44b1c",
+      "kind": "meta",
+      "match": "J03WQQ",
+      "sha256": null,
+      "size": 11932,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WQQ.xml"
+    },
+    {
+      "filename": "J03WR9.meta.xml",
+      "git_blob_sha1": "7a8eb84881a1631da510982c01c90a3afd1b2e23",
+      "kind": "meta",
+      "match": "J03WR9",
+      "sha256": null,
+      "size": 11823,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_02_01_matchinformation_DFL-COM-000002_DFL-MAT-J03WR9.xml"
+    },
+    {
+      "filename": "J03WMX.tracking.xml",
+      "git_blob_sha1": null,
+      "kind": "tracking",
+      "match": "J03WMX",
+      "sha256": "d3dd92e509421a6466acb0a083c009035f1751bc5fd9ef42ffa8f20d01cf7d49",
+      "size": 418524833,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_04_03_positions_raw_observed_DFL-COM-000001_DFL-MAT-J03WMX.xml"
+    },
+    {
+      "filename": "J03WN1.tracking.xml",
+      "git_blob_sha1": null,
+      "kind": "tracking",
+      "match": "J03WN1",
+      "sha256": "56ef948961a18e150dba0b7b16869d0008ff66f3050a0c355d31fa5b8ec2fcec",
+      "size": 391722803,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_04_03_positions_raw_observed_DFL-COM-000001_DFL-MAT-J03WN1.xml"
+    },
+    {
+      "filename": "J03WOH.tracking.xml",
+      "git_blob_sha1": null,
+      "kind": "tracking",
+      "match": "J03WOH",
+      "sha256": "ec4dcf30200aad694dea263d5289485fcd0ca42badddaeb7c81f5cd5a4229d4f",
+      "size": 348945715,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WOH.xml"
+    },
+    {
+      "filename": "J03WOY.tracking.xml",
+      "git_blob_sha1": null,
+      "kind": "tracking",
+      "match": "J03WOY",
+      "sha256": "a228ef0e676d009cefff1580fcb721b53f598454eb120ec347e0a628a3a4646b",
+      "size": 362567859,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WOY.xml"
+    },
+    {
+      "filename": "J03WPY.tracking.xml",
+      "git_blob_sha1": null,
+      "kind": "tracking",
+      "match": "J03WPY",
+      "sha256": "845202c29ad93d696653436da426a7cdaefb848298e07b7343de6529581671e1",
+      "size": 371688499,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WPY.xml"
+    },
+    {
+      "filename": "J03WQQ.tracking.xml",
+      "git_blob_sha1": null,
+      "kind": "tracking",
+      "match": "J03WQQ",
+      "sha256": "cbefcb0bd7f39f3b94ee69a7bc97aac0f936425062c1cc1b144733df36804d6f",
+      "size": 356219423,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WQQ.xml"
+    },
+    {
+      "filename": "J03WR9.tracking.xml",
+      "git_blob_sha1": null,
+      "kind": "tracking",
+      "match": "J03WR9",
+      "sha256": "70b63069189019066fb7e3d9db891122edfe787f3a43ba522ebe45ed89ea0269",
+      "size": 372934140,
+      "url": "https://huggingface.co/datasets/pysport/idsse-data/resolve/a715a38dfbaf5f58e431727c2b78d174101a703c/DFL_04_03_positions_raw_observed_DFL-COM-000002_DFL-MAT-J03WR9.xml"
+    }
+  ],
+  "revision": "a715a38dfbaf5f58e431727c2b78d174101a703c"
+}
